@@ -11,3 +11,5 @@ This is a system tailored towards archeologists that uses camera drones and phot
 The drone is preferebly the DJI Mavic 3 Enterprise but any camera drone compatible with DJI Cloud API (Application Programming Interface) works.
 The photogrammetry software is Meshroom (AliceVision) as it is open source and downloadable. It can take a long time to download.
 We if our project/competition goes well we might create a prototype. -Less Grumpy Person
+
+If your not here for a random project make like a banana and split!
